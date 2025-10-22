@@ -5,5 +5,5 @@
 + No memorize
 + Pattern Recognition
 
-<img src="img_3.png" alt="Image" width="980">
+<img src="img_3.png" alt="Image" width="900">
 
