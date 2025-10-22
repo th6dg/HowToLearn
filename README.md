@@ -1,4 +1,9 @@
 # How to learn right thing
 <br>
 
-![img.png](img.png)
+## In engineering
++ No memorize
++ Pattern Recognition
+
+<img src="img_3.png" alt="Image" width="1036">
+
