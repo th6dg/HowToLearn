@@ -1,5 +1,4 @@
 # How to learn right thing
-<br>
 
 ## In engineering
 + No memorize
